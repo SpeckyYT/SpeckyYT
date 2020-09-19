@@ -1,16 +1,39 @@
-### Hi there 👋
+# This is me, SpeckyYT
+You can also call me Specky ;)
 
-<!--
-**SpeckyYT/SpeckyYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```coffee
+Specky =
+  languages:
+    [
+      "Javascipt"
+      "CoffeeScript"
+      "TypeScript"
+      "C++"
+      "LUA"
+      "BASIC"
+      "BATCH"
+    ]
 
-Here are some ideas to get you started:
+  languages2:
+    [
+      "Italian"
+      "English"
+      "German"
+    ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  environments:
+    [
+      "Node"
+      "Love2D"
+    ]
+
+  tools:
+    [
+      "Visual Studio Code"
+      "CLI"
+    ]
+```
+
+## My most interesting open-source projects
+
+### [SpeckyBot](https://github.com/SpeckyYT/SpeckyBot)
