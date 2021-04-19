@@ -26,3 +26,4 @@ I also learned CoffeeScript, which I use from time to time (usually on SpeckyBot
 
 - [SpeckyBot](https://github.com/SpeckyYT/SpeckyBot) AKA my personal dump of code
 - [specky-endecode](https://github.com/SpeckyYT/specky-endecode) a text encrypter-decrypter which works two-ways (basically like an enigma machine)
+- [good-censor](https://github.com/SpeckyYT/good-censor) a text-censoring module with lots of customizability
